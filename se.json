@@ -1,0 +1,21 @@
+{
+    "ver":1.0,
+    "se":{
+      "3":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/majsoulSE/countdown5.mp3"},
+      "11":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/majsoulSE/hu.mp3"},
+      "25":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Sagimori%20Arata/pong.mp3"},
+      "26":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Satomi%20Kanbara/m_1900.wav"},
+      "27":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Sagimori%20Arata/gang.mp3"},
+      "28":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Satomi%20Kanbara/m_1902.wav"},
+      "29":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Sagimori%20Arata/chi.mp3"},
+      "30":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Satomi%20Kanbara/m_1901.wav"},
+      "31":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Sagimori%20Arata/lizhi1.mp3"},
+      "32":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Satomi%20Kanbara/m_1913.wav"},
+      "33":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Sagimori%20Arata/rong.mp3"},
+      "34":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Satomi%20Kanbara/m_1914.wav"},
+      "35":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Sagimori%20Arata/zimo1.mp3"},
+      "36":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/Satomi%20Kanbara/m_1915.wav"},
+      "40":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/majsoulSE/winlose.mp3"},
+      "41":{"url":"https://raw.githubusercontent.com/c0mm1e/tenhou/master/majsoulSE/yakuman.mp3"}
+    }
+  }
