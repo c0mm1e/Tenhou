@@ -1,2 +1,2 @@
 # Tenhou
-My Tenhou client personal configuration. 
+My Tenhou (天鳳) client personal configuration. 
